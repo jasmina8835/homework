@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all_parents{
+    width: 100%;
+    height: 490px;
+    background-color: lightgreen;
+}
+.container{
+    width: 350px;
+    height: auto;
+    margin: auto;
+    background-color: white;
+    padding: 25px 20px;
+    border-radius: 5px;
+}
+.box{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+input{
+    width: 260px;
+    height: 40px;
+    padding-left: 10px;
+    margin: 15px 0;
+}
+.box button{
+    width: 40px;
+    height: 40px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 3px;
+}
+.box2{
+    height: 40px;
+    background-color: antiquewhite;
+    margin: 10px 0;
+    padding: auto;
+    padding-left: 10px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.box2 button{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+}
+.box3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.box3 button{
+    width: 80px;
+    height: 40px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 3px;
+}
