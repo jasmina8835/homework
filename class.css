@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text{
+    text-indent: 10px;
+    letter-spacing: 6px;
+    line-height: 100px;
+    word-spacing: 5px;
+}
+.t_shadow{
+    text-shadow: 2px -4px 4px red;
+}
+.b_shadow{
+    width: 300px;
+    box-shadow: 2px -4px 4px red inset;
+    box-shadow: 2px -4px 4px red;
+}
+
+*{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+.fonts{
+    font-weight: 700;
+    font-size: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
